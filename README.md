@@ -1,4 +1,4 @@
-### Hello, World! 🌍
+### pragma solidity ^0.12.0 🌐
 
 I'm **Hamin**, a Full-Stack Engineer with a deep passion for blockchain and Ethereum. 
 <br/>
