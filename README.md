@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=HaminKang&fontSize=70&fontColor=333333&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rect&&color=0:4D80FF,100:95F0B2&height=300&section=header&text=Hamin%20render&fontSize=90)
