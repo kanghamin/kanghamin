@@ -5,7 +5,6 @@
 <div align="center">
   <h3></h3>
   <br />
-  <a href="https://hamin.me"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&logoColor=ffffff"/></a>
-  <a href="https://velog.io/@hjkwon0507"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vercel</title><path d="M24 22.525H0l12-21.05 12 21.05z"/></svg></a>
+  <a href="https://hamin.me"></a>
 </div>
 <br />
