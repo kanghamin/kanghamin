@@ -2,7 +2,7 @@
 
 I'm **Hamin**, a Full-Stack Engineer with a deep passion for blockchain and Ethereum. 
 <br/>
-This is my working Github Id - [<a href="[https://github.com/hamink](https://github.com/Hamin-Atomrigs)" target="_blank">[https://github.com/hamink](https://github.com/Hamin-Atomrigs)</a>](https://github.com/hamink)
+This is my working Github Id - [Hamin-Atomrigs GitHub](https://github.com/Hamin-Atomrigs)
 
 #### 🚀 My Passion
 Over the years, I've had the opportunity to work with leading crypto companies, authored a top-ranked book on Ethereum in Korea, and have nurtured a YouTube community of over 10,000 subscribers where I share insights, tutorials, and blockchain developments.
